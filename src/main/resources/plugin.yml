@@ -1,0 +1,7 @@
+name: JavaVersionPrinter
+version: '${project.version}'
+main: me.saltyaimbotter.javaversionprinter.JavaVersionPrinter
+api-version: 1.18
+load: STARTUP
+authors: [ SaltyAimbOtter ]
+description: Prints the Java version of the current runtime at startup.
